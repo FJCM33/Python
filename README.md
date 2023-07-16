@@ -1,1 +1,4 @@
-# PreworkPython_JavierCerrudo
+# The Power MBA 
+# Prework
+# Python 
+# Javier Cerrudo
